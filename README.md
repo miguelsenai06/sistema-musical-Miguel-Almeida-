@@ -1,6 +1,6 @@
 
 
-# 🎵 Sistema Musical miguel almeida 
+# 🎵 Sistema Musical-miguel almeida 
 
 ## 📌 Sobre o Projeto
 
